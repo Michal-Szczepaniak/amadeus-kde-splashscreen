@@ -15,6 +15,6 @@ Image {
     NumberAnimation on currentImage {
         from: 1
         to: 67
-        duration: 1100
+        duration: 2000
     }
 }
